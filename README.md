@@ -49,6 +49,15 @@
 ![Copper](https://github.com/ashrafabuareesh/Cirrhosis-Prediction/assets/123064338/b33f9eac-9a90-4ef3-8754-bfa6e0662ebf)
 * Increased levels of copper in the urine, known as copperuria, can be an indicator of cirrhosis. The liver plays a critical role in copper metabolism, including copper absorption, storage, and excretion.
 # Maching Learning Using the Following Models:
+  * RandomForestClassifier
+  * Tuned RandomForestClassifier
+
+# the feature importances 
+![perm_importances](https://github.com/ashrafabuareesh/Cirrhosis-Prediction/assets/123064338/468c5419-8af2-4bb4-988b-481488a7879c)
+* N_Days: Represents the number of days between registration and the occurrence of a significant event such as death, liver transplantation, or study analysis. Reflects the disease progression over time and its severity. Might play a role in estimating the recovery period or the patient's response to treatment.
+* Prothrombin: Indicates the blood clotting rate and its ability to coagulate. Changes in prothrombin levels may be indicative of liver damage and impaired function.
+* Bilirubin: Reflects the level of bilirubin in the blood, which is an indicator of the liver's function in removing waste and toxins from the body. Elevated bilirubin levels may indicate liver damage or bile duct obstruction.
+* Alk_Phos (Alkaline Phosphatase): Indicates alkaline phosphatase levels in the blood, which can increase in conditions such as liver enlargement or gallbladder issues. It may be an indicator of liver or bile duct disorders. These four features represent important indicators of liver function and disease progression. They can be highly useful in predicting liver cirrhosis and understanding the factors associated with it.
 
 
 
