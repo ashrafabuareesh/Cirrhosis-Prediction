@@ -59,6 +59,9 @@
 * Prothrombin: Indicates the blood clotting rate and its ability to coagulate. Changes in prothrombin levels may be indicative of liver damage and impaired function.
 * Bilirubin: Reflects the level of bilirubin in the blood, which is an indicator of the liver's function in removing waste and toxins from the body. Elevated bilirubin levels may indicate liver damage or bile duct obstruction.
 * Alk_Phos (Alkaline Phosphatase): Indicates alkaline phosphatase levels in the blood, which can increase in conditions such as liver enlargement or gallbladder issues. It may be an indicator of liver or bile duct disorders. These four features represent important indicators of liver function and disease progression. They can be highly useful in predicting liver cirrhosis and understanding the factors associated with it.
+![the_most_important_features](https://github.com/ashrafabuareesh/Cirrhosis-Prediction/assets/123064338/6ebd9773-859d-42de-971f-e60e3c331d1f)
+* This is a drawing in which the number of days (N_Days) is distributed between registration and the occurrence of an important task, such as the beginning, cultivation, or analysis.
+* The graph displays the distribution of levels of prothrombin, bilirubin, and alkaline phosphate between groups of people according to their condition (eg, people who died and those who experienced the cirrhosis phase).
 
 
 
