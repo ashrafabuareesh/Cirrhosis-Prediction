@@ -53,7 +53,8 @@
   * Tuned RandomForestClassifier
 
 # the feature importances 
-![perm_importances](https://github.com/ashrafabuareesh/Cirrhosis-Prediction/assets/123064338/468c5419-8af2-4bb4-988b-481488a7879c)
+![perm_importances](https://github.com/ashrafabuareesh/Cirrhosis-Prediction/assets/123064338/ebf2cfa8-0e1d-4b51-92e2-bfddd698055c)
+
 * N_Days: Represents the number of days between registration and the occurrence of a significant event such as death, liver transplantation, or study analysis. Reflects the disease progression over time and its severity. Might play a role in estimating the recovery period or the patient's response to treatment.
 * Prothrombin: Indicates the blood clotting rate and its ability to coagulate. Changes in prothrombin levels may be indicative of liver damage and impaired function.
 * Bilirubin: Reflects the level of bilirubin in the blood, which is an indicator of the liver's function in removing waste and toxins from the body. Elevated bilirubin levels may indicate liver damage or bile duct obstruction.
