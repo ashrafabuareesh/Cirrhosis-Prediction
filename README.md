@@ -63,5 +63,38 @@
 * This is a drawing in which the number of days (N_Days) is distributed between registration and the occurrence of an important task, such as the beginning, cultivation, or analysis.
 * The graph displays the distribution of levels of prothrombin, bilirubin, and alkaline phosphate between groups of people according to their condition (eg, people who died and those who experienced the cirrhosis phase).
 
+# Clustering
+ ![image](https://github.com/ashrafabuareesh/Cirrhosis-Prediction/assets/123064338/13459b70-8725-4b27-a6c2-9b1f2d35defc)
+
+ ## Moderate-moderate cirrhosis : cluster 0
+  *  Liver condition: moderate to good, without significant liver damage.
+   * Symptoms: No ascites or edema, which indicates no accumulation of fluid in the body.
+   * Liver function: good balance, as SGOT and Prothrombin are at normal levels.
+   * Biochemistry: Some slight changes in the levels of Albumin, Copper, and Alkaline Phosphatase, but they do not indicate serious problems.
+   * Blood vessels: No increase in triglycerides levels. There is a possibility of structural changes in the liver, but without noticeable symptoms
+## Liver without damage : cluster1
+* Liver condition: good, without noticeable liver damage.
+* Symptoms: No ascites or edema, which indicates no accumulation of fluid in the body.
+* Liver function: good, as SGOT and prothrombin are at normal levels.
+* Biochemistry: Some slight changes in Copper and Alkaline Phosphatase levels, but they do not indicate serious problems.
+* Blood vessels: No increase in triglycerides levels.
+* Imaging: No possibility of structural changes in the liver
+## Advanced liver cirrhosis : cluster 2
+* Liver condition: high in terms of fibrosis and hypertrophy.
+* Symptoms: the presence of ascites, edema, and arachnoid tumor in most cases.
+* Liver function: Significant changes in liver function with an increase in SGOT and Bilirubin, and an increase in prothemin.
+* Biochemistry: Changes in albumin and copper levels.
+* Blood vessels: Triglycerides in low levels.
+## Advanced cirrhosis with complications : cluster3 
+* Liver condition: high in terms of fibrosis and hypertrophy.
+* Symptoms: the presence of ascites, edema, and arachnoid tumor in most cases.
+* Liver function: Significant changes in liver function with a significant increase in SGOT and Bilirubin, and a significant increase in prothemin. *Biochemistry: Increase in levels of cholesterol, triglycerides, and copper.
+* Blood vessels: increased levels of triglycerides. *This summary indicates a very serious liver condition that requires urgent medical attention and care.
+##  Normal liver : cluster 4
+* Liver condition: normal, without signs of fibrosis or hepatomegaly.
+* Symptoms: No ascites or edema, and few arachnoid tumors.
+* Liver function: Many indicators are within the normal range, such as Bilirubin, Cholesterol, and SGOT levels.
+* Biochemistry: A slight increase in the levels of Alkaline Phosphatase, and a decrease in the levels of Copper and Prothrombin.
+* Vascular: Good levels of triglycerides.
 
 
